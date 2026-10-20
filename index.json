@@ -1,0 +1,11 @@
+{
+  "org": "msiemens",
+  "repo": "tinydb-serialization",
+  "versions": [
+    {
+      "commit": "685b8192995e9761af725dac247887feaeeca74f",
+      "tag": "",
+      "parsed_at": "2026-10-20T09:49:33.555129+00:00"
+    }
+  ]
+}
