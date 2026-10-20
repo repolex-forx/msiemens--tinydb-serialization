@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/msiemens/tinydb-serialization/commit/685b8192995e9761af725dac247887feaeeca74f",
       "git:hexsha": "685b8192995e9761af725dac247887feaeeca74f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T09:49:33.554626+00:00"
     },
     {
       "@id": "https://repolex.ai/r/msiemens/tinydb-serialization/commit/0a5e7e72e27eae4224a4aff971970bb7b12aafe1",
