@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "msiemens",
+  "repo": "tinydb-serialization",
+  "versions": [
+    {
+      "commit": "685b8192995e9761af725dac247887feaeeca74f",
+      "parsed_at": "2026-10-20T09:47:29.462966+00:00",
+      "filetree": "filetree/685b8192995e9761af725dac247887feaeeca74f.nq.gz",
+      "blobs": [
+        "blob/f146f1e90fe9ae66f5ebda64401b50119c0e60e6.nq.gz",
+        "blob/721ff95eaeed84b25975ac2c6ad48a5a940ed297.nq.gz",
+        "blob/fc3635e95386e18df05de80a5c54f61cd2305b83.nq.gz",
+        "blob/68ea411bc5a86822e7449ed13f6353834267411d.nq.gz",
+        "blob/5093635580f40160a1660d1221a2e979054b9b50.nq.gz",
+        "blob/1f6ae139aa4201f6455ab34a5c904c41686373f7.nq.gz",
+        "blob/374be89292f83edddbfb073583a052037ea151b6.nq.gz",
+        "blob/d9005f2cc7fc4e65f14ed5518276007c08cf2fd0.nq.gz",
+        "blob/20d3b2eec71f8849da848f9c353c315777f5fe5e.nq.gz",
+        "blob/86774dfaf3664a7424afe57d3aff94ffdff12910.nq.gz",
+        "blob/c3dbf616619f47c48422f6d512983fc9a09521cf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
